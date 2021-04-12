@@ -1,4 +1,4 @@
-# Đây là trang Profile Nguyễn Gia Lạc!
+# Đây là trang Profile của Nguyễn Gia Lạc!
 
 ## Tóm tắt bản thân
 Mình sinh năm 99 ở Bình Dương, là người rất thích âm nhạc và game (bên cạnh còn nhiều sở thích khác, tính kiểu dân chơi nửa mùa). Lên 18 tuổi thì học đại học ở PTIT HCM quận 9 ngành Công nghệ thông tin (năm 4 rồi). Giờ là lúc bắt đầu công việc và những định hướng trong tương lai đối với ngành Lập trình. 
