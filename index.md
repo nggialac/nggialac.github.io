@@ -14,7 +14,10 @@ Mình sinh ra và lớn lên ở Bình Dương, là người rất thích âm nh
 
 -HTML/CSS, JS tự mò :D
 
-## Support or Contact
+## Liên hệ, nói dóc với mình qua
+Github: https://github.com/nggialac
+
 Mail: nggialac99@gmail.com
+
 Facebook: https://www.facebook.com/lacnguyen99 
 
