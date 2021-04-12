@@ -22,7 +22,7 @@ Mình sinh năm 99 ở Bình Dương, là người rất thích âm nhạc và g
 
 -Mở rộng làm việc với NoSQL (mongoDB) và NodeJS.
 
--Cải thiện thiết kế Front-end, học thêm ReactJS vì nó hot (đang).
+-Cải thiện thiết kế Front-end, học thêm 1, 2 cái Library/Framework Front như ReactJS.
 
 -Docker? Tại sao không?
 
