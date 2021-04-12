@@ -35,9 +35,9 @@ Mình sinh năm 99 ở Bình Dương, là người rất thích âm nhạc và g
 -Thử làm con Bot Trading Forex chẳng hạn? (Hồi trước có 1 thời kỳ mình test cái giao dịch ngoại hối này và thua sml trên tài khoản Demo).
 
 ## Liên hệ, nói dóc với mình qua
-Github: https://github.com/nggialac
+[Github](https://github.com/nggialac)
 
-Mail: nggialac99@gmail.com
+[Mail](nggialac99@gmail.com)
 
-Facebook: https://www.facebook.com/lacnguyen99 
+[Facebook](https://www.facebook.com/lacnguyen99) 
 
